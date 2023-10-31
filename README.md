@@ -14,8 +14,9 @@
 
 <img src="Ghost Wallpaper.jpeg" width="250" align="left">
 <hr>
- <a href="https://www.linkedin.com/in/yasmin-constantino/"><img src="icons/linkedin (2).png" width="48"/></a>
-  <a href="https://www.instagram.com/the.yasminconstantino/"><img src="icons/instagram (1).png" width="48"/></a>
+<a href="https://www.linkedin.com/in/yasmin-constantino/"><img src="icons/linkedin (2).png" width="48"/></a>
+<a href="https://www.instagram.com/the.yasminconstantino/"><img src="icons/instagram (1).png" width="48"/></a>
+<a href="https://yasminconstantino.github.io/Portfolio/"><img src="icons/portfolio.png" width="48"/></a>
 
 
 <!--
