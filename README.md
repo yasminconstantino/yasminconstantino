@@ -2,7 +2,13 @@
 
   - 🌱 I’m currently studying Internet Systems Technology at IFSul.
   - - ⚡ Fun fact: I was an artist before and I almost became a tattoo artist.
-  - - 🔭 I’m currently working on some projects to improve my skills.
+  - - 🔭 I’m currently working on some projects to improve my skills and always learning about new things
+  - - 💬 Ask me about Harry Potter, Star Wars or Scary things and we will talk for hours..
+
+file:///home/yasmin/Downloads/Ghost%20Wallpaper.jpeg
+
+      
+
 
 
 <!--
