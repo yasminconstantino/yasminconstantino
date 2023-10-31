@@ -6,7 +6,7 @@
   - - 💬 Ask me about Harry Potter, Star Wars or Scary things and we will talk for hours..
 
   <hr>
-
+icons/cpp.png
 <!--
 <img style="width=100px;  src="Ghost Wallpaper.jpeg">
       -->
