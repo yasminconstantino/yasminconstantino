@@ -6,10 +6,6 @@
   - - 💬 Ask me about Harry Potter, Star Wars or Scary things and we will talk for hours..
 
   <hr>
-  
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-            <i class="devicon-c-line"></i>
 
 <!--
 <img style="width=100px;  src="Ghost Wallpaper.jpeg">
