@@ -5,7 +5,7 @@
   - - 🔭 I’m currently working on some projects to improve my skills and always learning about new things
   - - 💬 Ask me about Harry Potter, Star Wars or Scary things and we will talk for hours..
 
-file:///home/yasmin/Downloads/Ghost%20Wallpaper.jpeg
+
 
       
 
