@@ -5,9 +5,12 @@
   - - 🔭 I’m currently working on some projects to improve my skills and always learning about new things
   - - 💬 Ask me about Harry Potter, Star Wars or Scary things and we will talk for hours..
 
+  <hr>
+    <i class="devicon-c-line"></i>
 
-<img src="Ghost Wallpaper.jpeg">
-      
+<!--
+<img style="width=100px;  src="Ghost Wallpaper.jpeg">
+      -->
 
 
 
