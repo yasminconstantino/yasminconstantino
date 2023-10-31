@@ -1,5 +1,5 @@
 <h1> Hello there! </h1>
-<h2> My name is Yasmin Constantino and this is my github! </h2>
+<h3> My name is Yasmin Constantino and this is my github! </h3>
 
   <p> 🌱 I’m currently studying Internet Systems Technology at IFSul.
     <br>
