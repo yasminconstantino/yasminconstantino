@@ -12,7 +12,9 @@
 
   <hr>
 
-<img src="Ghost Wallpaper.jpeg" width="250" align="right">
+<img src="Ghost Wallpaper.jpeg" width="250" align="left">
+<hr>
+ <a href="https://www.linkedin.com/in/yasmin-constantino/"><img src="icons/linkedin (2).png" width="37"/></a>
 
 <!--
 <img style="width=100px;  src="Ghost Wallpaper.jpeg">
