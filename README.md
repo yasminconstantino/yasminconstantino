@@ -1,4 +1,4 @@
-### Hello there! 👋
+## Hello there! 👋
 
   - 🌱 I’m currently studying Internet Systems Technology at IFSul.
   - - ⚡ Fun fact: I was an artist before and I almost became a tattoo artist.
