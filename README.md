@@ -1,9 +1,14 @@
-## Hello there! My name is Yasmin Constantino and this is my github! 👋
+<h1> Hello there! </h1>
+<h2> My name is Yasmin Constantino and this is my github! </h2>
 
-  - 🌱 I’m currently studying Internet Systems Technology at IFSul.
+  <p> 🌱 I’m currently studying Internet Systems Technology at IFSul.
+    <br>
   - - ⚡ Fun fact: I was an artist before and I almost became a tattoo artist.
+    <br>
   - - 🔭 I’m currently working on some projects to improve my skills and always learning about new things
+    <br>
   - - 💬 Ask me about Harry Potter, Star Wars or Scary things and we will talk for hours..
+  </p>
 
   <hr>
 
