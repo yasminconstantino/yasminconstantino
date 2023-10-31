@@ -1,13 +1,13 @@
 <h1> Hello there! </h1>
 <h3> My name is Yasmin Constantino and this is my github! </h3>
 
-  <p> 🌱 I’m currently studying Internet Systems Technology at IFSul.
+  <p>
+    <img src="icons/mortarboard.png" width="28" padding="5"/> I’m currently studying Internet Systems Technology at IFSul.
     <br>
-  - - ⚡ Fun fact: I was an artist before and I almost became a tattoo artist.
+    <img src="icons/palette.png" width="28" padding="5"/>  Fun fact: I was an artist before and I almost became a tattoo artist.
     <br>
-  - - 🔭 I’m currently working on some projects to improve my skills and always learning about new things
+    <img src="icons/book.png" width="28" padding="5"/> I’m currently working on some projects to improve my skills and always learning about new things
     <br>
-  - - 💬 Ask me about Harry Potter, Star Wars or Scary things and we will talk for hours..
   </p>
 
   <hr>
