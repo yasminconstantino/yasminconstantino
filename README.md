@@ -12,6 +12,8 @@
 
   <hr>
 
+<img src="Ghost Wallpaper.jpeg" width="250" align="right">
+
 <!--
 <img style="width=100px;  src="Ghost Wallpaper.jpeg">
       -->
