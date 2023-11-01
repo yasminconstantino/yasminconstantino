@@ -16,17 +16,17 @@
 <hr>
 <p margin="50"> You can find me and contact me:</p>
 
-<div><a href="https://www.linkedin.com/in/yasmin-constantino/"><img src="icons/linkedin (2).png" width="48"/></a>
+<a href="https://www.linkedin.com/in/yasmin-constantino/"><img src="icons/linkedin (2).png" width="48"/></a>
   <p>         </p>
 <a href="https://www.instagram.com/the.yasminconstantino/"><img src="icons/instagram (1).png" width="48"/></a>
     <p>         </p>
 <a href="https://yasminconstantino.github.io/Portfolio/"><img src="icons/portfolio (1).png" width="48"/></a>
     <p>         </p>
-<a href='mailto:theyasminconstantino@gmail.com'><img src="icons/email (1).png" width="43"/></a></div>
+<a href='mailto:theyasminconstantino@gmail.com'><img src="icons/email (1).png" width="43"/></a>
 
 <br>
 
-<img src="icons/html (3).png" width="48"/><p>         </p><img src="icons/css (1).png" width="48"/><p>         </p><img src="icons/javascript.png" width="48"/><p>         </p><img src="icons/c.png" width="48"/><p>         </p><img src="icons/c-.png" width="48"/><p>         </p><img src="icons/python-file.png" width="48"/>
+<img src="icons/html (3).png" width="48"/><p></p><img src="icons/css (1).png" width="48"/><p>         </p><img src="icons/javascript.png" width="48"/><p>         </p><img src="icons/c.png" width="48"/><p>         </p><img src="icons/c-.png" width="48"/><p>         </p><img src="icons/python-file.png" width="48"/>
 
 <!--
 <img style="width=100px;  src="Ghost Wallpaper.jpeg">
