@@ -28,8 +28,8 @@
 </div>
 
 <br>
-<p> Languages and Technologies:</p>
 <div align="right">
+  <p> Languages and Technologies:</p>
   <img src="icons/html (3).png" width="48"/>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <img src="icons/css (1).png" width="48"/>
