@@ -1,5 +1,7 @@
 <h1> Hello there! </h1>
-<h3> My name is Yasmin Constantino and this is my github!</h3><img src="icons/ghost (4).png" width="28"/>
+<div>
+  <h3> My name is Yasmin Constantino and this is my github!</h3><img src="icons/ghost (4).png" width="28"/>
+</div>
 
   <div padding="30">
     <img src="icons/mortarboard.png" width="28"/> I’m currently studying Internet Systems Technology at IFSul.
