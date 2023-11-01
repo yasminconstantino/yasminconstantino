@@ -16,7 +16,7 @@
 <hr>
 <p> You can find me and contact me:</p>
 
-<div margin="50">
+<div margin="100">
   <a href="https://www.linkedin.com/in/yasmin-constantino/"><img src="icons/linkedin (2).png" width="48"/></a>
   <a href="https://www.instagram.com/the.yasminconstantino/"><img src="icons/instagram (1).png" width="48"/></a>
   <a href="https://yasminconstantino.github.io/Portfolio/"><img src="icons/portfolio (1).png" width="48"/></a>
@@ -25,7 +25,7 @@
 
 <br>
 
-<img src="icons/html (3).png" width="48"/><p></p><img src="icons/css (1).png" width="48"/><p>         </p><img src="icons/javascript.png" width="48"/><p>         </p><img src="icons/c.png" width="48"/><p>         </p><img src="icons/c-.png" width="48"/><p>         </p><img src="icons/python-file.png" width="48"/>
+<img src="icons/html (3).png" width="48"/><img src="icons/css (1).png" width="48"/><img src="icons/javascript.png" width="48"/><img src="icons/c.png" width="48"/><img src="icons/c-.png" width="48"/><img src="icons/python-file.png" width="48"/>
 
 <!--
 <img style="width=100px;  src="Ghost Wallpaper.jpeg">
