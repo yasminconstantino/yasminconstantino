@@ -1,4 +1,4 @@
-<h1> Hello there! </h1>
+<h1> Hello there! <img src="icons/lightsaber.png" width="22"/></h1>
 <div>
   <h3> My name is Yasmin Constantino and this is my github!  <img src="icons/ghost (4).png" width="22"/></h3>
 </div>
