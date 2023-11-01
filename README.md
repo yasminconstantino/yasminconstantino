@@ -4,11 +4,11 @@
 </div>
 
   <div padding="30">
-    <img src="icons/mortarboard.png" width="28"/> I’m currently studying Internet Systems Technology at IFSul.
+    <img src="icons/mortarboard.png" width="28"/>  I’m currently studying Internet Systems Technology at IFSul.
     <br>
     <img src="icons/palette.png" width="28"/>  Fun fact: I was an artist before and I almost became a tattoo artist.
     <br>
-    <img src="icons/book.png" width="28"/> I’m currently working on some projects to improve my skills and always learning about new things
+    <img src="icons/book.png" width="28"/>  I’m currently working on some projects to improve my skills and always learning about new things
     <br>
   </div>
 
