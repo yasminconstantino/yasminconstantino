@@ -11,7 +11,6 @@
   </p>
 
   <hr>
-  #
 
 <img src="Ghost Wallpaper.jpeg" width="250" align="left">
 <hr>
@@ -22,9 +21,7 @@
 <a href="https://yasminconstantino.github.io/Portfolio/"><img src="icons/portfolio (1).png" width="48"/></a>
 <a href='mailto:theyasminconstantino@gmail.com'><img src="icons/email (1).png" width="43"/></a></div>
 
-
-
-#
+<br>
 
 <img src="icons/html (3).png" width="48"/><img src="icons/css (1).png" width="48"/><img src="icons/javascript.png" width="48"/><img src="icons/c.png" width="48"/><img src="icons/c-.png" width="48"/><img src="icons/python-file.png" width="48"/>
 
