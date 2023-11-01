@@ -28,18 +28,20 @@
 </div>
 
 <br>
+<div align="center">
+  <img src="icons/html (3).png" width="48"/>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="icons/css (1).png" width="48"/>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="icons/javascript.png" width="48"/>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="icons/c.png" width="48"/>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="icons/c-.png" width="48"/>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="icons/python-file.png" width="48"/>
+</div>
 
-<img src="icons/html (3).png" width="48"/>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<img src="icons/css (1).png" width="48"/>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<img src="icons/javascript.png" width="48"/>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<img src="icons/c.png" width="48"/>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<img src="icons/c-.png" width="48"/>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<img src="icons/python-file.png" width="48"/>
 
 <!--
 <img style="width=100px;  src="Ghost Wallpaper.jpeg">
