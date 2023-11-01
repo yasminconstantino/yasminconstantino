@@ -14,15 +14,14 @@
 
 <img src="Ghost Wallpaper.jpeg" width="250" align="left">
 <hr>
-<p margin="50"> You can find me and contact me:</p>
+<p> You can find me and contact me:</p>
 
-<a href="https://www.linkedin.com/in/yasmin-constantino/"><img src="icons/linkedin (2).png" width="48"/></a>
-  <p>         </p>
-<a href="https://www.instagram.com/the.yasminconstantino/"><img src="icons/instagram (1).png" width="48"/></a>
-    <p>         </p>
-<a href="https://yasminconstantino.github.io/Portfolio/"><img src="icons/portfolio (1).png" width="48"/></a>
-    <p>         </p>
-<a href='mailto:theyasminconstantino@gmail.com'><img src="icons/email (1).png" width="43"/></a>
+<div margin="50">
+  <a href="https://www.linkedin.com/in/yasmin-constantino/"><img src="icons/linkedin (2).png" width="48"/></a>
+  <a href="https://www.instagram.com/the.yasminconstantino/"><img src="icons/instagram (1).png" width="48"/></a>
+  <a href="https://yasminconstantino.github.io/Portfolio/"><img src="icons/portfolio (1).png" width="48"/></a>
+  <a href='mailto:theyasminconstantino@gmail.com'><img src="icons/email (1).png" width="43"/></a>
+</div>
 
 <br>
 
