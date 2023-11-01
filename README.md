@@ -1,6 +1,6 @@
 <h1> Hello there! </h1>
 <div>
-  <h3> My name is Yasmin Constantino and this is my github!</h3><img src="icons/ghost (4).png" width="28"/>
+  <h3> My name is Yasmin Constantino and this is my github!<img src="icons/ghost (4).png" width="28"/></h3>
 </div>
 
   <div padding="30">
