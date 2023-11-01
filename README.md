@@ -16,7 +16,7 @@
 <hr>
 <p> You can find me and contact me:</p>
 
-<div align="center">
+<div align="right">
   <a href="https://www.linkedin.com/in/yasmin-constantino/"><img src="icons/linkedin (2).png" width="48"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/the.yasminconstantino/"><img src="icons/instagram (1).png" width="48"/></a>
