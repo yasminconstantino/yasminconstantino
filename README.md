@@ -25,12 +25,7 @@
 
 #
 
-<img src="icons/html (3).png" width="48" padding="5"/>
-<img src="icons/css (1).png" width="48" padding="5"/>
-<img src="icons/javascript.png" width="48" padding="5"/>
-<img src="icons/c.png" width="48" padding="5"/>
-<img src="icons/c-.png" width="48" padding="5"/>
-<img src="icons/python-file.png" width="48" padding="5"/>
+<img src="icons/html (3).png" width="48" padding="5"/><img src="icons/css (1).png" width="48" padding="5"/><img src="icons/javascript.png" width="48" padding="5"/><img src="icons/c.png" width="48" padding="5"/><img src="icons/c-.png" width="48" padding="5"/><img src="icons/python-file.png" width="48" padding="5"/>
 
 <!--
 <img style="width=100px;  src="Ghost Wallpaper.jpeg">
