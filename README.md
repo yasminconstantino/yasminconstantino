@@ -24,7 +24,7 @@
 </section>
   <hr>
 
-<img src="Ghost Wallpaper.jpeg" width="240" align="left">
+<img src="Ghost Wallpaper.jpeg" width="220" align="left">
 <hr>
 <h4> You can find me and contact me:</h4>
 
