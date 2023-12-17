@@ -12,6 +12,8 @@
     <br>
   </div>
 
+<br>
+
 <section>
   <details>
     <summary>Clique aqui para ler em português</summary>
