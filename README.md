@@ -28,6 +28,7 @@
   <div>
   <img src="Ghost Wallpaper.jpeg" width="250" align="left">
   <hr>
+  <br>
   <h4> You can find me and contact me:</h4>
     
   <div align="left">
