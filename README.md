@@ -29,7 +29,7 @@
   <img src="Ghost Wallpaper.jpeg" width="250" align="left">
   <hr>
   <br>
-  <h4> You can find me and contact me:</h4>
+  <h4> You can contact me:</h4>
     
   <div align="left">
       <a href="https://www.linkedin.com/in/yasmin-constantino/"><img src="icons/linkedin (2).png" width="48"/></a>
