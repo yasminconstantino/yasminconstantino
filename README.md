@@ -24,7 +24,7 @@
 </section>
   <hr>
 
-<img src="Ghost Wallpaper.jpeg" width="250" align="left">
+<img src="Ghost Wallpaper.jpeg" width="240" align="left">
 <hr>
 <h4> You can find me and contact me:</h4>
 
@@ -54,8 +54,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <img src="icons/python-file.png" width="48"/>
 </div>
-
-<br>
 
 <br>
 
