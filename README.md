@@ -8,10 +8,18 @@
     <br>
     <img src="icons/palette.png" width="28"/>  Fun fact: I was an artist before and I almost became a tattoo artist.
     <br>
-    <img src="icons/book.png" width="28"/>  I’m currently working on some projects to improve my skills and always learning about new things
+    <img src="icons/book.png" width="28"/>  I’m currently working on some projects to improve my skills and always learning about new things.
     <br>
   </div>
 
+<section>
+  <details>
+    <summary>Clique aqui para ler em português</summary>
+    <p>Atualmente estou cursando Sistemas para Internet no IFSul.</p>
+    <p>Fato engraçado: Eu era uma artista, quase me tornei uma tatuadora.</p>
+    <p>Estou sempre trabalhando em projetos para praticar meus conhecimentos e habilidades,a lém de estar sempre aprendendo coisas novas.</p>
+  </details>
+</section>
   <hr>
 
 <img src="Ghost Wallpaper.jpeg" width="250" align="left">
@@ -51,16 +59,4 @@
       -->
 
 
-
-<!--
-**yasminconstantino/yasminconstantino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
+![Snake animation](https://github.com/yasminconstantino/yasminconstantino/blob/output/github-contribution-grid-snake.svg)
