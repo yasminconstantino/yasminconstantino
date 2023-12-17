@@ -54,11 +54,3 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <img src="icons/python-file.png" width="48"/>
 </div>
-
-
-<!--
-<img style="width=100px;  src="Ghost Wallpaper.jpeg">
-      -->
-
-
-![Snake animation](https://github.com/yasminconstantino/yasminconstantino/blob/output/github-contribution-grid-snake.svg)
