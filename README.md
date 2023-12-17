@@ -58,8 +58,11 @@
   </div>
   </div>
 </section>
-
+<hr>
 <br>
+<hr>
+<br>
+
 <section>
 <div>
 <a href="https://github.com/yasminconstantino">
