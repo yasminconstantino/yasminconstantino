@@ -17,6 +17,7 @@
 <section>
   <details>
     <summary>Clique aqui para ler em português</summary>
+    <br>
     <p>Atualmente estou cursando Sistemas para Internet no IFSul.</p>
     <p>Fato engraçado: Eu era uma artista, quase me tornei uma tatuadora.</p>
     <p>Estou sempre trabalhando em projetos para praticar meus conhecimentos e habilidades,a lém de estar sempre aprendendo coisas novas.</p>
