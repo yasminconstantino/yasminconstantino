@@ -23,14 +23,14 @@
   </details>
 </section>
   <hr>
-
-<section>
+  
+  <section>
   <div>
-    <img src="Ghost Wallpaper.jpeg" width="250" align="left">
-    <hr>
-    <h4> You can find me and contact me:</h4>
+  <img src="Ghost Wallpaper.jpeg" width="250" align="left">
+  <hr>
+  <h4> You can find me and contact me:</h4>
     
-    <div align="left">
+  <div align="left">
       <a href="https://www.linkedin.com/in/yasmin-constantino/"><img src="icons/linkedin (2).png" width="48"/></a>
         &#8287;&#8287;&#8287;&#8287;&#8287;
       <a href="https://www.instagram.com/the.yasminconstantino/"><img src="icons/instagram (1).png" width="48"/></a>
@@ -39,10 +39,10 @@
         &#8287;&#8287;&#8287;&#8287;&#8287;
       <a href='mailto:theyasminconstantino@gmail.com'><img src="icons/email (1).png" width="52"/></a>
         &#8287;&#8287;&#8287;&#8287;&#8287;
-    </div>
+  </div>
     
-    <br>
-    <div align="right">
+  <br>
+  <div align="right">
       <h4> Languages and Technologies:</h4>
       <img src="icons/html (3).png" width="48"/>
       &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -55,7 +55,7 @@
       <img src="icons/c-.png" width="48"/>
       &#8287;&#8287;&#8287;&#8287;&#8287;
       <img src="icons/python-file.png" width="48"/>
-    </div>
+  </div>
   </div>
 </section>
 
