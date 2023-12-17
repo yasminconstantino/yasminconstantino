@@ -59,9 +59,11 @@
   </div>
 </section>
 <br>
-<hr>
+<br>
 <br>
 <hr>
+<br>
+<br>
 <br>
 
 <section>
