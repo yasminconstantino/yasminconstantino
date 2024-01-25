@@ -59,7 +59,7 @@
       &#8287;&#8287;&#8287;&#8287;&#8287;
       <img src="icons/python-file.png" width="48"/>
       &#8287;&#8287;&#8287;&#8287;&#8287;
-      <img src="icons/sql64.png" width="60"/>
+      <img src="icons/sql.png" width="48"/>
       &#8287;&#8287;&#8287;&#8287;&#8287;
     
   </div>
