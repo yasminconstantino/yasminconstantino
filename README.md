@@ -53,10 +53,6 @@
       &#8287;&#8287;&#8287;&#8287;&#8287;
       <img src="icons/javascript.png" width="48"/>
       &#8287;&#8287;&#8287;&#8287;&#8287;
-      <img src="icons/c.png" width="48"/>
-      &#8287;&#8287;&#8287;&#8287;&#8287;
-      <img src="icons/c-.png" width="48"/>
-      &#8287;&#8287;&#8287;&#8287;&#8287;
       <img src="icons/python-file.png" width="48"/>
       &#8287;&#8287;&#8287;&#8287;&#8287;
       <img src="icons/sql.png" width="48"/>
