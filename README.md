@@ -27,7 +27,7 @@
   
   <section>
   <div>
-  <img src="giphy.gif" width="250" align="left">
+  <img src="mee.png" width="250" align="left">
   <br>
   <hr>
   <br>
