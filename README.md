@@ -27,7 +27,7 @@
   
   <section>
   <div>
-  <img src="header.png" width="250" align="left">
+  <img src="coverbw.png" width="250" align="left">
   <br>
   <hr>
   <br>
