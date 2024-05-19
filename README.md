@@ -27,7 +27,7 @@
   
   <section>
   <div>
-  <img src="night.jpeg" width="250" align="left">
+  <img src="header.png" width="250" align="left">
   <br>
   <hr>
   <br>
