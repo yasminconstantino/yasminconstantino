@@ -27,7 +27,7 @@
   
   <section>
   <div>
-  <img src="sky.jpeg" width="250" align="left">
+  <img src="night.jpeg" width="250" align="left">
   <br>
   <hr>
   <br>
