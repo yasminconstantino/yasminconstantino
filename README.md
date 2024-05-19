@@ -42,7 +42,7 @@
         &#8287;&#8287;&#8287;&#8287;&#8287;
       <a href='mailto:theyasminconstantino@gmail.com'><img src="icons/email (1).png" width="52"/></a>
         &#8287;&#8287;&#8287;&#8287;&#8287;
-      <a href='https://yasminconstantino.itch.io/'><img src="icons/icons8-itch-io-480.png" width="52"/></a>
+      <a href='https://yasminconstantino.itch.io/'><img src="icons/icons8-itch-io-480.png" width="60"/></a>
         &#8287;&#8287;&#8287;&#8287;&#8287;
   </div>
     
