@@ -24,10 +24,10 @@
   </details>
 </section>
   <hr>
-  
+    <img src="giphy.gif" width="250" align="left" padding="100">
+
   <section>
   <div>
-  <img src="giphy.gif" width="250" align="left" padding="100">
   <br>
   <hr>
   <br>
