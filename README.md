@@ -27,7 +27,7 @@
   
   <section>
   <div>
-  <img src="mee.png" width="250" align="left">
+  <img src="Ghost Wallpaper.jpeg" width="250" align="left">
   <br>
   <hr>
   <br>
