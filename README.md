@@ -27,7 +27,7 @@
   
   <section>
   <div>
-  <img src="another.png" width="250" align="left">
+  <img src="bkg.png" width="250" align="left">
   <br>
   <hr>
   <br>
