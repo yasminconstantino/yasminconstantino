@@ -27,7 +27,7 @@
   
   <section>
   <div>
-  <img src="Ghost Wallpaper.jpeg" width="250" align="left">
+  <img src="giphy.gif" width="250" align="left">
   <br>
   <hr>
   <br>
