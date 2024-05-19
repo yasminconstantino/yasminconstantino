@@ -77,8 +77,6 @@
 
 
 <section>
-  
-  <br>
 <div>
 <a href="https://github.com/yasminconstantino">
   <br>
