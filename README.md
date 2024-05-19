@@ -24,8 +24,8 @@
   </details>
 </section>
   <hr>
-  <section>
-        <img src="giphy.gif" width="250" align="left" padding="100">
+  <section margin="50">
+        <img src="giphy.gif" width="250" align="left">
   </section>
 
   <section>
