@@ -6,7 +6,7 @@
   <div padding="30">
     <img src="icons/mortarboard.png" width="28"/>  I’m currently studying Internet Systems Technology at IFSul.
     <br>
-    <img src="icons/palette.png" width="28"/>  Fun fact: I was an artist before and I almost became a tattoo artist. But i also still illustrating and creating art.
+    <img src="icons/palette.png" width="28"/>  Fun fact: I was an artist before and I almost became a tattoo artist. But i also still illustrating.
     <br>
     <img src="icons/book.png" width="28"/>  I’m currently working on some projects to improve my skills and always learning about new things. I recently finished my first game.
     <br>
@@ -19,8 +19,8 @@
     <summary>Clique aqui para ler em português</summary>
     <br>
     <p>Atualmente estou cursando Sistemas para Internet no IFSul.</p>
-    <p>Fato engraçado: Eu era uma artista, quase me tornei uma tatuadora.</p>
-    <p>Estou sempre trabalhando em projetos para praticar meus conhecimentos e habilidades,a lém de estar sempre aprendendo coisas novas.</p>
+    <p>Fato engraçado: Eu era uma artista, quase me tornei uma tatuadora. Mas também continuo ilustrando.</p>
+    <p>Estou sempre trabalhando em projetos para praticar meus conhecimentos e habilidades,a lém de estar sempre aprendendo coisas novas. Terminei recentemente meu primeiro jogo.</p>
   </details>
 </section>
   <hr>
