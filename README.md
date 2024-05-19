@@ -24,7 +24,7 @@
   </details>
 </section>
   <hr>
-  <section margin="50">
+  <section>
         <img src="giphy.gif" width="250" align="left">
   </section>
 
@@ -36,7 +36,7 @@
   <h4> Contact me:</h4>
     
   <div align="left">
-      <a href="https://www.linkedin.com/in/yasmin-constantino/"><img src="icons/linkedin (2).png" width="48"/></a>
+      <a href="https://www.linkedin.com/in/yasmin-constantino/">    <img src="icons/linkedin (2).png" width="48"/></a>
         &#8287;&#8287;&#8287;&#8287;&#8287;
       <a href="https://www.instagram.com/the.yasminconstantino/"><img src="icons/instagram (1).png" width="48"/></a>
         &#8287;&#8287;&#8287;&#8287;&#8287;
