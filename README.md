@@ -38,7 +38,7 @@
         &#8287;&#8287;&#8287;&#8287;&#8287;
       <a href="https://www.instagram.com/the.yasminconstantino/"><img src="icons/instagram (1).png" width="48"/></a>
         &#8287;&#8287;&#8287;&#8287;&#8287;
-      <a href="https://yasminconstantino.github.io/Portfolio/"><img src="icons/portfolio (1).png" width="48"/></a>
+      <a href="https://yasminconstantino.github.io/newPortfolio/"><img src="icons/portfolio (1).png" width="48"/></a>
         &#8287;&#8287;&#8287;&#8287;&#8287;
       <a href='mailto:theyasminconstantino@gmail.com'><img src="icons/email (1).png" width="52"/></a>
         &#8287;&#8287;&#8287;&#8287;&#8287;
