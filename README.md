@@ -59,7 +59,7 @@
       &#8287;&#8287;&#8287;&#8287;&#8287;
       <img src="icons/sql.png" width="48"/>
       &#8287;&#8287;&#8287;&#8287;&#8287;
-      <img src="icons/c-sharp.png" width="48"/>
+      <img src="icons/java.png" width="48"/>
       &#8287;&#8287;&#8287;&#8287;&#8287;
       <img src="icons/unity.png" width="48"/>
       &#8287;&#8287;&#8287;&#8287;&#8287;
