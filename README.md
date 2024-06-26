@@ -23,7 +23,7 @@
     <p>Estou sempre trabalhando em projetos para praticar meus conhecimentos e habilidades,a lém de estar sempre aprendendo coisas novas. Terminei recentemente meu primeiro jogo.</p>
   </details>
 </section>
-  <hr>
+
   
   <section>
   <div>
