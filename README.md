@@ -78,7 +78,6 @@
 
 <section>
 <div>
-<a href="https://github.com/yasminconstantino">
 <img loading="lazy"  height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminconstantino&show_icons=true&theme=material-palenight&rank_icon=github&include_all_commits=true&count_private=true"/>
   <hr>
   <br>
