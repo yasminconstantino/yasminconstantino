@@ -31,7 +31,7 @@
   <br>
   <br>
   <h4> Contact me:</h4>
-    
+  <hr>
   <div align="left">
       <a href="https://www.linkedin.com/in/yasmin-constantino/"><img src="icons/linkedin (2).png" width="48"/></a>
         &#8287;&#8287;&#8287;&#8287;&#8287;
