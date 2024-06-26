@@ -79,7 +79,7 @@
 <section>
 <div>
 <a href="https://github.com/yasminconstantino">
-  <br>
+
   <img loading="lazy" height="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminconstantino&layout=donut-vertical&langs_count=7&theme=material-palenight"/>
   <hr>
   <br>
