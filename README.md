@@ -68,7 +68,6 @@
 </section>
 <br>
 <br>
-<br>
 <hr>
 <br>
 <section>
