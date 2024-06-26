@@ -29,7 +29,6 @@
   <div>
   <img src="img.png" width="250" align="left">
   <br>
-  <hr>
   <br>
   <h4> Contact me:</h4>
     
