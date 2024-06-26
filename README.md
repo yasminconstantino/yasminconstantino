@@ -85,7 +85,7 @@
   <br>
 <img loading="lazy"  height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminconstantino&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
 </div>
-<img loading="lazy"  height="180em" src="[(https://github-readme-stats.vercel.app/api/pin/?username=yasminconstantino&repo=github-readme-stats&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)"/>
+<img loading="lazy"  height="180em" src="[(https://github-readme-stats.vercel.app/api/pin/?username=yasminconstantino&repo=github-readme-stats&theme=material-palenight)](https://github.com/yasminconstantino/portfolio/)"/>
 
 
 </section>
