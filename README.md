@@ -73,7 +73,7 @@
 <br>
 <section>
 <div>
-<img loading="lazy"  height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminconstantino&show_icons=true&theme=material-palenight&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img loading="lazy"  height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminconstantino&show_icons=true&theme=material-palenight&rank_icon=github&include_all_commits=true&count_private=true&java=ff2244&css=00000&scss=222222"/>
   <hr>
   <br>
   <img loading="lazy" height="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminconstantino&layout=donut-vertical&langs_count=7&theme=material-palenight"/>
