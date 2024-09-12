@@ -26,9 +26,10 @@
 
   
   <section>
+  <hr>
   <div>
   <img src="img.png" width="250" align="left">
-  <hr>
+ 
   <br>
   <br>
   <br>
