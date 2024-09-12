@@ -4,7 +4,7 @@
 </h1>
 
 <div style="display: flex; align-items: center; padding: 10px;">
-  <img src="myImg.png" width="250" style="margin-right: 20px; border: 2px solid #5A0B69; border-radius: 5px;"/>
+  <img src="myImg.png"  style="margin-right: 20px; border: 2px solid #5A0B69; border-radius: 5px;"/>
   <div>
     <h3 style="color:#E0E0E9;">My name is Yasmin Constantino and this is my GitHub! 
       <img src="icons/ghost (4).png" width="22" style="border: 2px solid #E0E0E9; border-radius: 5px;"/>
