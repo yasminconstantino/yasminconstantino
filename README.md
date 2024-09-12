@@ -82,6 +82,7 @@
 <img src="img.png" width="250" align="right">
   <hr>
   <br>
-<img loading="lazy" height="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminconstantino&layout=donut-vertical&langs_count=7&theme=material-palenight"/>
+<img loading="lazy" align="left" height="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminconstantino&layout=donut-vertical&langs_count=7&theme=material-palenight"/>
+  <img src="img.png" width="250" align="right">
 </div>
 </section>
