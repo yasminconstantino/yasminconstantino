@@ -14,14 +14,14 @@
     <p align="center" ><img src="icons/book.png" width="28" style="vertical-align: middle; border: 2px solid #5A0B69; border-radius: 5px;"/> I’m currently working on some projects to improve my skills and always learning about new things.</p>
     <section>
       <details>
-        <summary style="color:#5A0B69;"><b>Clique aqui para ler em português</b></summary>
+        <summary align="center" style="color:#5A0B69;"><b>Clique aqui para ler em português</b></summary>
         <p>Atualmente estou cursando Sistemas para Internet no IFSul.</p>
         <p>Fato engraçado: Eu era uma artista, quase me tornei uma tatuadora. Mas continuo ilustrando.</p>
         <p>Estou sempre trabalhando em projetos para praticar meus conhecimentos e habilidades, além de estar sempre aprendendo coisas novas. Terminei recentemente meu primeiro jogo.</p>
       </details>
     </section>
     <h4>Contact me:</h4>
-    <div style="text-align: center;">
+    <div align="center" style="text-align: center;">
       <a href="https://www.linkedin.com/in/yasmin-constantino/"><img src="icons/linkedin (2).png" width="48" style="margin: 10px; border: 2px solid #5A0B69; border-radius: 5px;"/></a>
       <a href="https://www.instagram.com/the.yasminconstantino/"><img src="icons/instagram (1).png" width="48" style="margin: 10px; border: 2px solid #5A0B69; border-radius: 5px;"/></a>
       <a href="https://yasminconstantino.github.io/newPortfolio/"><img src="icons/portfolio (1).png" width="48" style="margin: 10px; border: 2px solid #5A0B69; border-radius: 5px;"/></a>
