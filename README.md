@@ -1,4 +1,4 @@
-<h1 style="display: flex; align-items: center; color:#5A0B69;">
+<h1 align="center" style="display: flex; align-items: center; color:#5A0B69;">
   Hello there!
   <img src="icons/lightsaber.png" width="30" style="margin-left: 10px; border: 2px solid #5A0B69; border-radius: 5px;"/>
 </h1>
