@@ -6,7 +6,7 @@
 <div style="display: flex; align-items: center; padding: 10px;">
   <img src="myImg.png"  style="margin-right: 20px; border: 2px solid #5A0B69; border-radius: 5px;"/>
   <div>
-    <h3 style="color:#E0E0E9;">My name is Yasmin Constantino and this is my GitHub! 
+    <h3 align="center" style="color:#E0E0E9;">My name is Yasmin Constantino and this is my GitHub! 
       <img src="icons/ghost (4).png" width="22" style="border: 2px solid #E0E0E9; border-radius: 5px;"/>
     </h3>
     <p align="center" ><img src="icons/mortarboard.png" width="28" style="vertical-align: middle; border: 2px solid #5A0B69; border-radius: 5px;"/> I’m currently studying Internet Systems Technology at IFSul.</p>
