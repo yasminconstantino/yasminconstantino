@@ -28,5 +28,23 @@
       <a href='mailto:theyasminconstantino@gmail.com'><img src="icons/email (1).png" width="52" style="margin: 10px; border: 2px solid #5A0B69; border-radius: 5px;"/></a>
       <a href='https://yasminconstantino.itch.io/'><img src="icons/itch-io.png" width="58" style="margin: 10px; border: 2px solid #5A0B69; border-radius: 5px;"/></a>
     </div>
+    <div align="center">
+      <h4> Languages and Technologies:</h4>
+      <img src="icons/html (3).png" width="48"/>
+      &#8287;&#8287;&#8287;&#8287;&#8287;
+      <img src="icons/css (1).png" width="48"/>
+      &#8287;&#8287;&#8287;&#8287;&#8287;
+      <img src="icons/javascript.png" width="48"/>
+      &#8287;&#8287;&#8287;&#8287;&#8287;
+      <img src="icons/python-file.png" width="48"/>
+      &#8287;&#8287;&#8287;&#8287;&#8287;
+      <img src="icons/sql.png" width="48"/>
+      &#8287;&#8287;&#8287;&#8287;&#8287;
+      <img src="icons/java.png" width="48"/>
+      &#8287;&#8287;&#8287;&#8287;&#8287;
+      <img src="icons/unity.png" width="48"/>
+      &#8287;&#8287;&#8287;&#8287;&#8287;
+    <br>
+  </div>
   </div>
 </div>
