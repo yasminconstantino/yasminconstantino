@@ -20,7 +20,7 @@
         <p>Estou sempre trabalhando em projetos para praticar meus conhecimentos e habilidades, além de estar sempre aprendendo coisas novas. Terminei recentemente meu primeiro jogo.</p>
       </details>
     </section>
-    <h4>Contact me:</h4>
+    <h4 align="center" >Contact me:</h4>
     <div align="center" style="text-align: center;">
       <a href="https://www.linkedin.com/in/yasmin-constantino/"><img src="icons/linkedin (2).png" width="48" style="margin: 10px; border: 2px solid #5A0B69; border-radius: 5px;"/></a>
       <a href="https://www.instagram.com/the.yasminconstantino/"><img src="icons/instagram (1).png" width="48" style="margin: 10px; border: 2px solid #5A0B69; border-radius: 5px;"/></a>
