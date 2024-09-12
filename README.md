@@ -37,6 +37,7 @@
 <footer style="text-align:center; color:#5A0B69;">
   Made with 💜 by Yasmin Constantino.
 </footer>
+  <img src="img.png" width="250" align="left">
 img:hover {
   transform: scale(1.1);
   transition: transform 0.3s ease-in-out;
