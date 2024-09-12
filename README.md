@@ -74,8 +74,6 @@
 <br>
 <br>
 <hr>
-<br>
-<br>
 <section>
 <div>
   <br>
