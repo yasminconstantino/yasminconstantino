@@ -51,5 +51,9 @@
       &#8287;&#8287;&#8287;&#8287;&#8287;
     <br>
   </div>
+  <hr>
+    <footer align="center" style="text-align:center; color:#5A0B69;">
+  Made with 💜 by Yasmin Constantino.
+</footer>
   </div>
 </div>
