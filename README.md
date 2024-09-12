@@ -5,6 +5,9 @@
 
 <div style="display: flex; align-items: center; padding: 10px;">
   <img src="myImg.png"  style="margin-right: 20px; border: 2px solid #5A0B69; border-radius: 5px;"/>
+  <br>
+  <hr>
+  <br>
   <div>
     <h3 align="center" style="color:#E0E0E9;">My name is Yasmin Constantino and this is my GitHub! 
       <img src="icons/ghost (4).png" width="22" style="border: 2px solid #E0E0E9; border-radius: 5px;"/>
@@ -13,12 +16,14 @@
     <p align="center" ><img src="icons/palette.png" width="28" style="vertical-align: middle; border: 2px solid #5A0B69; border-radius: 5px;"/> Fun fact: I was an artist before and I almost became a tattoo artist.</p>
     <p align="center" ><img src="icons/book.png" width="28" style="vertical-align: middle; border: 2px solid #5A0B69; border-radius: 5px;"/> I’m currently working on some projects to improve my skills and always learning about new things.</p>
     <section>
+      <br>
       <details>
         <summary align="center" style="color:#5A0B69;"><b>Clique aqui para ler em português</b></summary>
         <p>Atualmente estou cursando Sistemas para Internet no IFSul.</p>
         <p>Fato engraçado: Eu era uma artista, quase me tornei uma tatuadora. Mas continuo ilustrando.</p>
         <p>Estou sempre trabalhando em projetos para praticar meus conhecimentos e habilidades, além de estar sempre aprendendo coisas novas. Terminei recentemente meu primeiro jogo.</p>
       </details>
+      <br>
     </section>
     <h4 align="center" >Contact me:</h4>
     <div align="center" style="text-align: center;">
