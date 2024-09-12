@@ -22,7 +22,6 @@
         <p>Fato engraçado: Eu era uma artista, quase me tornei uma tatuadora. Mas continuo ilustrando.</p>
         <p>Estou sempre trabalhando em projetos para praticar meus conhecimentos e habilidades, além de estar sempre aprendendo coisas novas. Terminei recentemente meu primeiro jogo.</p>
       </details>
-    <br>
     <hr>
     <br>
     </section>
