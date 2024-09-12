@@ -32,6 +32,7 @@
       <h4> Languages and Technologies:</h4>
       <img src="icons/html (3).png" width="48"/>
       &#8287;&#8287;&#8287;&#8287;&#8287;
+      <p>  </p>
       <img src="icons/css (1).png" width="48"/>
       &#8287;&#8287;&#8287;&#8287;&#8287;
       <img src="icons/javascript.png" width="48"/>
