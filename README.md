@@ -7,7 +7,6 @@
   <img src="myImg.png"  style="margin-right: 20px; border: 2px solid #5A0B69; border-radius: 5px;"/>
   <br>
   <hr>
-  <br>
   <div>
     <h3 align="center" style="color:#E0E0E9;">My name is Yasmin Constantino and this is my GitHub! 
       <img src="icons/ghost (4).png" width="22" style="border: 2px solid #E0E0E9; border-radius: 5px;"/>
@@ -24,6 +23,9 @@
         <p>Estou sempre trabalhando em projetos para praticar meus conhecimentos e habilidades, além de estar sempre aprendendo coisas novas. Terminei recentemente meu primeiro jogo.</p>
       </details>
       <br>
+    <br>
+    <hr>
+    <br>
     </section>
     <h4 align="center" >Contact me:</h4>
     <div align="center" style="text-align: center;">
