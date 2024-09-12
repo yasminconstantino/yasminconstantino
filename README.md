@@ -46,7 +46,7 @@
   </div>
     
   <br>
-  <div align="right">
+  <div align="left">
       <h4> Languages and Technologies:</h4>
       <img src="icons/html (3).png" width="48"/>
       &#8287;&#8287;&#8287;&#8287;&#8287;
