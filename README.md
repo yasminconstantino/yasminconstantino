@@ -52,8 +52,8 @@
     <br>
   </div>
   <hr>
-  <footer align="center" style="text-align:center; color:#5A0B69;">
-  Made with 💜 by Yasmin Constantino.
+  <footer style="text-align:center; color:#5A0B69;">
+  <p align="center">Made with 💜 by Yasmin Constantino.</p>
   </footer>
   </div>
 </div>
