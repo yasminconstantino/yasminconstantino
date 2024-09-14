@@ -52,12 +52,9 @@
     <br>
   </div>
   <hr>
-  <div>
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/toplangs/yasminconstantino=UTILIZADOR&layout=compact&theme=dracula)
-  </div>
-  <hr>
   <footer style="text-align:center; color:#5A0B69;">
   <p align="center">Made with 💜 by Yasmin Constantino.</p>
   </footer>
   </div>
 </div>
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/toplangs/yasminconstantino=UTILIZADOR&layout=compact&theme=dracula)
