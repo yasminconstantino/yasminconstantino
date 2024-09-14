@@ -52,6 +52,10 @@
     <br>
   </div>
   <hr>
+  <div>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?yasminconstantino=anuraghazra&layout=compact)
+  </div>
+  <hr>
   <footer style="text-align:center; color:#5A0B69;">
   <p align="center">Made with 💜 by Yasmin Constantino.</p>
   </footer>
