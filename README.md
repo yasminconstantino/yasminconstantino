@@ -53,7 +53,7 @@
   </div>
   <hr>
   <div align="center">
-      <img loading="lazy" align="center" height="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminconstantino&layout=compact&langs_count=7&theme=material-palenight"/>
+      <img loading="lazy" align="center" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminconstantino&layout=compact&langs_count=7&theme=material-palenight"/>
   </div>
   <hr>
   <footer style="text-align:center; color:#5A0B69;">
