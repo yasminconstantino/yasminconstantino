@@ -52,6 +52,10 @@
     <br>
   </div>
   <hr>
+  <div>
+      <img loading="lazy" height="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminconstantino&layout=donut-vertical&langs_count=7&theme=material-palenight"/>
+  </div>
+  <hr>
   <footer style="text-align:center; color:#5A0B69;">
   <p align="center">Made with 💜 by Yasmin Constantino.</p>
   </footer>
