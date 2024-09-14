@@ -53,7 +53,7 @@
   </div>
   <hr>
   <div>
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/yasminconstantino=UTILIZADOR&layout=compact&theme=dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/toplangs/yasminconstantino=UTILIZADOR&layout=compact&theme=dracula)
   </div>
   <hr>
   <footer style="text-align:center; color:#5A0B69;">
