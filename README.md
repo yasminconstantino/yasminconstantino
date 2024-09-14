@@ -57,3 +57,4 @@
   </footer>
   </div>
 </div>
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminconstantino&layout=compact&theme=dracula)
