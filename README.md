@@ -60,10 +60,6 @@
       <img loading="lazy" align="center" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminconstantino&layout=compact&langs_count=7&theme=material-palenight"/>
   </div>
   <hr>
-    <div align="center">
-        <img height="380em" src="mee.png"/>
-    </div>
-  <hr>
   <footer style="text-align:center; color:#5A0B69;">
   <p align="center">Made with 💜 by Yasmin Constantino.</p>
   </footer>
