@@ -61,7 +61,7 @@
   </div>
   <hr>
     <div>
-        <img src="mee.png"  style="margin-right: 20px; border: 2px solid #5A0B69; border-radius: 5px;"/>
+        <img src="mee.png"  align="center" height="250em"  style="margin-right: 20px; border: 2px solid #5A0B69; border-radius: 5px;"/>
     </div>
   <hr>
   <footer style="text-align:center; color:#5A0B69;">
