@@ -61,7 +61,7 @@
   </div>
   <hr>
   <footer style="text-align:center; color:#5A0B69;">
-  <p align="center">Made with 💜 by Yasmin Constantino.</p>
+  <p align="center">`Made with 💜 by Yasmin Constantino`.</p>
   </footer>
   </div>
 </div>
