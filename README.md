@@ -60,8 +60,8 @@
       <img loading="lazy" align="center" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminconstantino&layout=compact&langs_count=7&theme=material-palenight"/>
   </div>
   <hr>
-    <div>
-        <img  align="center" height="250em" src="mee.png"/>
+    <div align="center">
+        <img height="250em" src="mee.png"/>
     </div>
   <hr>
   <footer style="text-align:center; color:#5A0B69;">
