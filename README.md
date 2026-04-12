@@ -34,30 +34,7 @@
     </div>
     <hr>
     <div align="center">
-      <h4> Languages and Technologies:</h4>
-      <img src="icons/html (3).png" width="48"/>
-      &#8287;&#8287;&#8287;&#8287;&#8287;
-      <img src="icons/css (1).png" width="48"/>
-      &#8287;&#8287;&#8287;&#8287;&#8287;
-      <img src="icons/javascript.png" width="48"/>
-      &#8287;&#8287;&#8287;&#8287;&#8287;
-      <img src="icons/python-file.png" width="48"/>
-      &#8287;&#8287;&#8287;&#8287;&#8287;
-      <img src="icons/sql.png" width="48"/>
-      &#8287;&#8287;&#8287;&#8287;&#8287;
-      <img src="icons/java.png" width="48"/>
-      &#8287;&#8287;&#8287;&#8287;&#8287;
-      <img src="icons/unity.png" width="48"/>
-      &#8287;&#8287;&#8287;&#8287;&#8287;
-      <img src="icons/aws.png" width="48"/>
-      &#8287;&#8287;&#8287;&#8287;&#8287;
-      <img src="icons/docker.png" width="48"/>
-      &#8287;&#8287;&#8287;&#8287;&#8287;
     <br>
-  </div>
-  <hr>
-  <div align="center">
-      <img loading="lazy" align="center" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminconstantino&layout=compact&langs_count=7&theme=material-palenight"/>
   </div>
   <hr>
   <footer style="text-align:center; color:#5A0B69;">
